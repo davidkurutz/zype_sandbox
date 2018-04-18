@@ -1,0 +1,42 @@
+body {
+	font: 16px Helvetica, sans-serif;
+}
+
+header {
+	width: 100%;
+}
+
+main {
+  width: 100%;
+}
+
+div, iframe {
+  margin: 0 auto;
+  display: block;
+}
+
+ul {
+	list-style: none;
+	padding: 0;
+	width: 560px;
+	display: block;
+	margin: 20px auto;
+}
+
+li {
+	text-decoration: none;
+	font-size: 18px;
+	display: inline-block;
+	width: 24%;
+	text-align: center;
+}
+
+a {
+	color: inherit;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #5EC9FA;
+}
+
